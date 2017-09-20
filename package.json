@@ -4,7 +4,8 @@
   "description": "monday project for studying nextjs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "dev" : "next"
   },
   "author": "paikwiki",
   "license": "ISC",

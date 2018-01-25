@@ -10,7 +10,7 @@
   "author": "paikwiki",
   "license": "ISC",
   "dependencies": {
-    "next": "^3.2.2",
+    "next": "^4.2.3",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },

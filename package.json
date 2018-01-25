@@ -5,14 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "dev" : "next"
+    "dev": "next"
   },
   "author": "paikwiki",
   "license": "ISC",
   "dependencies": {
     "next": "^4.2.3",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   },
   "devDependencies": {
     "enzyme": "^2.9.1",
